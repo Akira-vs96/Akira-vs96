@@ -27,6 +27,7 @@
 ## About me
 
 - 🚀 I build projects that balance thoughtful design with solid engineering.
+- 🐍 I also enjoy building practical tools and experiments with Python.
 - 🧠 I am always learning, experimenting, and looking for better ways to solve problems.
 - 🤝 I enjoy collaborating with people who care about useful, well-crafted software.
 - 🌱 Currently focused on growing my skills and shipping more consistently.
@@ -37,6 +38,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
